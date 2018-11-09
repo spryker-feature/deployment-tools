@@ -1,0 +1,14 @@
+{
+  "name": "spryker-feature/deployment-tools",
+  "description": "Deployment tools [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/console": "^4.0.0",
+    "spryker/heartbeat": "^3.2.3",
+    "spryker/index-generator": "^1.0.0",
+    "spryker/install": "^0.5.0"
+  }
+}
