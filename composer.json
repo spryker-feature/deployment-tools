@@ -10,11 +10,11 @@
     "spryker/console": "^4.0.0",
     "spryker/heartbeat": "^3.2.3",
     "spryker/index-generator": "^1.0.0",
-    "spryker/install": "^0.5.0"
+    "spryker/install": "^0.5.1"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201903.x-dev"
     }
   }
 }
