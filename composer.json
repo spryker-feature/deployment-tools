@@ -10,7 +10,7 @@
     "spryker/console": "^4.0.0",
     "spryker/heartbeat": "^3.2.3",
     "spryker/index-generator": "^1.0.0",
-    "spryker/install": "^0.5.1"
+    "spryker/install": "^0.5.0"
   },
   "extra": {
     "branch-alias": {
