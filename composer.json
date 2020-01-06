@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.2",
     "spryker/console": "^4.2.0",
-    "spryker/heartbeat": "^3.3.0",
+    "spryker/health-check": "^1.0.0",
     "spryker/index-generator": "^1.0.0",
     "spryker/install": "^0.5.0"
   },
