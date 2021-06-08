@@ -12,7 +12,8 @@
         "spryker/index-generator": "^1.1.0",
         "spryker/install": "^1.0.0",
         "spryker/publish-and-synchronize-health-check": "^1.0.0",
-        "spryker/publish-and-synchronize-health-check-search": "^1.0.0"
+        "spryker/publish-and-synchronize-health-check-search": "^1.0.0",
+        "spryker/publish-and-synchronize-health-check-storage": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
