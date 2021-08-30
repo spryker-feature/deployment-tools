@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker/console": "^4.8.0",
+        "spryker/console": "^4.10.0",
         "spryker/health-check": "^1.0.0",
         "spryker/index-generator": "^1.1.0",
         "spryker/install": "^1.0.0",
@@ -17,7 +17,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     }
 }
